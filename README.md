@@ -34,6 +34,7 @@ Libraries:
 Important and great library that supports audio and music analysis is Librosa. It provides building blocks that are required to construct an information retrieval model from music. Another great library we will use is for deep learning modeling purposes is TensorFlow.
 
 pip install librosa
+
 pip install tensorflow
 
 

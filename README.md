@@ -18,15 +18,25 @@ Dataset Overview
 The dataset we will use is called as Urban Sound 8k dataset. The dataset contains 8732 sound files of 10 different classes and is listed below. Our task is to extract different features from these files and classify the corresponding audio files into respective categories. You can download the dataset from the official website from here, and it is also available on Kaggle. The size of the dataset is a little bit large, so if it’s not possible to download, then you can create Kaggle Notebook and can practice it on Kaggle itself.
 
 Air Conditioner
+
 Car Horn
+
 Children Playing
+
 Dog Bark
+
 Drilling Machine
+
 Engine Idling
+
 Gun Shot
+
 Jackhammer
+
 Siren
+
 Street Music
+
 
 
 Libraries:
